@@ -68,7 +68,7 @@ Purpose: Integrate all data, create final result files, and generate Fasta forma
 ```
 bash 6.sh
 ```
-To predict a genome structure alone, run 7 and 8.sh
+To predict a genome structure alone, run 7 and 8.sh  
 7.Bin Annotation (Run 7.sh) 
 Purpose: Predict ORFs using Prokka and perform NR Database annotation.
 ```
