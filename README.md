@@ -1,3 +1,5 @@
+[pipeline.pdf](https://github.com/user-attachments/files/16388309/pipeline.pdf)
+
 # Pan-Alphafold
 ### Introduction to PA workflow
 #### This pipeline will perform:
